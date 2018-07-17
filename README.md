@@ -1,6 +1,7 @@
 ## 朴素贝叶斯
 
 SklearnBayes.py  使用sklearn库中GaussianNB和MultinomialNB，但下面结果表中只填入了GaussianNB的测试结果
+
 SelfBayes.py 手写朴素贝叶斯
 
 
